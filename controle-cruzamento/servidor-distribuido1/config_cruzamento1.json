@@ -1,0 +1,56 @@
+{
+  "cruzamento": 1,
+  "pinos_gpio": {
+    "semaforo1_pino1": {
+      "numero": 9,
+      "tipo": "saida"
+    },
+    "semaforo1_pino2": {
+      "numero": 11,
+      "tipo": "saida"
+    },
+    "semaforo2_pino1": {
+      "numero": 5,
+      "tipo": "saida"
+    },
+    "semaforo2_pino2": {
+      "numero": 6,
+      "tipo": "saida"
+    },
+    "botao_pedestre1": {
+      "numero": 13,
+      "tipo": "entrada"
+    },
+    "botao_pedestre2": {
+      "numero": 19,
+      "tipo": "entrada"
+    },
+    "botao_auxiliar1": {
+      "numero": 26,
+      "tipo": "entrada"
+    },
+    "botao_auxiliar2": {
+      "numero": 22,
+      "tipo": "entrada"
+    },
+    "botao_principal1": {
+      "numero": 0,
+      "tipo": "entrada"
+    },
+    "botao_principal2": {
+      "numero": 27,
+      "tipo": "entrada"
+    },
+    "buzzer": {
+      "numero": 17,
+      "tipo": "saida"
+    }
+  },
+  "estado_semaforo": "verde_via_principal",
+  "tempo_atual_semaforo": 0,
+  "host_central": "164.41.98.19", 
+  "porta_central": 10400,
+  "host_distribuido1": "164.41.98.24",
+  "porta_distribuido1": 10399
+}
+

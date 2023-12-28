@@ -1,0 +1,9 @@
+{
+    "porta_servidor": 10400,
+    "porta_servidor_distribuido1": 10399,
+    "porta_servidor_distribuido2": 10398,
+    "host_servidor": "164.41.98.19",
+    "host_distribuido1": "164.41.98.24",
+    "host_distribuido2": "164.41.98.24"
+}
+  
